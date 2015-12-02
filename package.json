@@ -1,6 +1,6 @@
 {
   "name": "oldie",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Provide CSS compatible with old Internet Explorer",
   "license": "MIT",
   "repository": "zhouwenbin/atom-oldie",
