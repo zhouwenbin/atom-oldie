@@ -1,0 +1,41 @@
+{
+  "name": "oldie",
+  "version": "0.0.0",
+  "description": "Use tomorrow's CSS syntax, today",
+  "license": "MIT",
+  "repository": "zhouwenbin/atom-oldie",
+  "private": true,
+  "author": {
+    "name": "zhouwenbin",
+    "email": "zwb86@qq.com",
+    "url": "zhouwenbin.com"
+  },
+  "activationCommands": {
+    "atom-workspace": "oldie"
+  },
+  "engines": {
+    "atom": ">=1.0.0"
+  },
+  "scripts": {
+    "test": "xo"
+  },
+  "keywords": [
+    "css",
+    "prefix",
+    "prefixer"
+  ],
+  "dependencies": {
+    "oldie": "^1.3.0",
+    "postcss": "^5.0.4",
+    "postcss-safe-parser": "^1.0.1"
+  },
+  "devDependencies": {
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true,
+    "globals": [
+      "atom"
+    ]
+  }
+}
