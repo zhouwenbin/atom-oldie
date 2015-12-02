@@ -1,7 +1,7 @@
 {
   "name": "oldie",
   "version": "0.0.1",
-  "description": "Use tomorrow's CSS syntax, today",
+  "description": "Provide CSS compatible with old Internet Explorer",
   "license": "MIT",
   "repository": "zhouwenbin/atom-oldie",
   "private": true,

@@ -1,6 +1,6 @@
 # oldie
 
-> Use tomorrow's CSS syntax, today [oldie](https://github.com/jonathantneal/oldie)
+> Provide CSS compatible with old Internet Explorer [oldie](https://github.com/jonathantneal/oldie)
 
 
 ## Install
